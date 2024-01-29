@@ -22,7 +22,7 @@ My current research interest focuses on **Large Language Models**, **Mathematica
 
 ## Research Experience:
 - **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2023 ~ Present.
-
+- **Internship** @ Suresoft. <br> \-- ADAS Verification Technology Team. May. 2022 ~ July. 2022
 
 <!-- ## Selected Awards:
 - Outstanding Technical Contribution Grant for OpenVINO. <br> \-- Awarded by Intel, 2022.
