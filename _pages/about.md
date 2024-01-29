@@ -22,7 +22,7 @@ My current research interest focuses on **Large Language Models**, **Mathematica
 
 
 ## Research Experience:
-- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2022 ~ Present.
+- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2023 ~ Present.
 
 
 <!-- ## Selected Awards:
