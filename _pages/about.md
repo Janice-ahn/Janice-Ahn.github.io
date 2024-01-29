@@ -13,7 +13,6 @@ My name is Janice Ahn ( *안지현* ), a first-year PhD student at Penn State Un
 My current research interest focuses on **Large Language Models**, **Mathematical Word Problems** and **Multilingual**. 
 
 
-======
 ## Publications:
 
 (<font size=4> * </font> indicates equal contribution)
