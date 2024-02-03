@@ -16,7 +16,7 @@ My current research interest focuses on **Large Language Models**, **Mathematica
 ## Publications:
 
 (<font size=4> * </font> indicates equal contribution)
-1. **Janice Ahn**, RISHU VERMA, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin. <u>Large Language Models for Mathematical Reasoning: Progresses and Challenges.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper]()]
+1. **Janice Ahn**, RISHU VERMA, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin. <u>Large Language Models for Mathematical Reasoning: Progresses and Challenges.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper](https://arxiv.org/abs/2402.00157)]
 2. Renze Lou, Kai Zhang, Jian Xie, Yuxuan Sun, **Janice Ahn**, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
 
 
