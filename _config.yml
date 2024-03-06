@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Janice Ahn / Janice Ahn Personal Page"
+title                    : "Jihyun (Janice) Ahn Personal Page"
 title_separator          : "-"
 name                     : &name "Janice (Jihyun) Ahn "
 description              : &description "Ph.D. studen at Penn State University"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Janice Ahn"
+  name             : "Jihyun (Janice) Ahn"
   avatar           : "janice-profile.png"
   bio              : "PhD @ PSU"
   location         : "State College, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AILGF5V6bkGGiWXSIb8HBsc6Y0aFFBCZeSCp502f5ywxOjs3dDXx-CWvnKg8nEfz875S4JvV9P_SMZexzLL8YEBSu4MyfN5NxYI-z6BrD_0&user=o_BkxjkAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/jihyun-ahn-4b6037225"
+  linkedin         :  "https://www.linkedin.com/in/jihyun-ahn-4b6037225/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
