@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jihyun (Janice) Ahn ( *안지현* ), a first-year PhD student at Penn State University, supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Arizona State University and University of Wisconsin Madison.
+My name is Jihyun (Janice) Ahn ( *안지현* ), a first-year PhD student at Penn State University, supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate student at Arizona State University and University of Wisconsin Madison.
 
 My current research interest focuses on **Large Language Models**, **Mathematical Word Problems** and **Multilingual**. 
 
@@ -20,8 +20,9 @@ My current research interest focuses on **Large Language Models**, **Mathematica
 2. Renze Lou, Kai Zhang, Jian Xie, Yuxuan Sun, **Janice Ahn**, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
 
 
-## Research Experience:
-- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). Aug. 2023 ~ Present.
+## Professional Experience:
+- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). August. 2023 ~ Present.
+- **Workshop Organizor** @ Penn State University. <br> \-- co-organizer of AI4Research Workshop colocated with IJCAI'24. March. 2024 ~ Present.
 - **Internship** @ Suresoft. <br> \-- ADAS Verification Technology Team. May. 2022 ~ July. 2022
 
 <!-- ## Selected Awards:
