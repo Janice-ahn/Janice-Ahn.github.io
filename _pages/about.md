@@ -22,7 +22,7 @@ My current research interest focuses on **Large Language Models**, **Mathematica
 
 ## Professional Experience:
 - **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). August. 2023 ~ Present.
-- **Workshop Organizor** @ Penn State University. <br> \-- co-organizer of AI4Research Workshop colocated with IJCAI'24. March. 2024 ~ Present.
+- **Workshop Organizor** @ Penn State University. <br> \-- co-organizer of AI4Research Workshop colocated with IJCAI'24. March. 2024 ~ July. 2024.
 - **Internship** @ Suresoft. <br> \-- ADAS Verification Technology Team. May. 2022 ~ July. 2022
 
 <!-- ## Selected Awards:
