@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jihyun (Janice) Ahn Personal Page"
+title                    : "Jihyun Ahn (Janice) Personal Page"
 title_separator          : "-"
-name                     : &name "Janice (Jihyun) Ahn "
+name                     : &name "Jihyun Ahn (Janice)"
 description              : &description "Ph.D. studen at Penn State University"
 url                      : https://janice-ahn.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jihyun (Janice) Ahn"
+  name             : "Jihyun Ahn (Janice)"
   avatar           : "janice-profile.png"
   bio              : "PhD @ PSU"
   location         : "State College, PA"
