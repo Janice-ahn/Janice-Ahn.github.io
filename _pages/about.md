@@ -17,10 +17,10 @@ My current research interest focuses on **Large Language Models**, **Mathematica
 
 (<font size=4> * </font> indicates equal contribution)
 1. **Janice Ahn**, RISHU VERMA, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin. <u>Large Language Models for Mathematical Reasoning: Progresses and Challenges.</u> *In EACL 2024 Student Research Workshop.* <br> [[Paper](https://arxiv.org/abs/2402.00157)]
-2. **Jihyun Janice Ahn**, Ryo Kamoi, Lu Cheng, Rui Zhang, Wenpeng Yin. <u>Direct-Inverse Prompting: Analyzing LLMs' Discriminative Capacity in Self-Improving Generation</u> <br> [[Paper](https://arxiv.org/abs/2407.11017)]
-3. Philip Wootaek Shin, **Jihyun Janice Ahn**, Wenpeng Yin, Jack Sampson, Vijaykrishnan Narayanan. <u>Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models</u> *In IJCAI 2024 AI Governance Workshop.* <br> [[Paper](https://arxiv.org/abs/2406.05602)]
+2. **Jihyun Janice Ahn**, Ryo Kamoi, Lu Cheng, Rui Zhang, Wenpeng Yin. <u>Direct-Inverse Prompting: Analyzing LLMs' Discriminative Capacity in Self-Improving Generation.</u> <br> [[Paper](https://arxiv.org/abs/2407.11017)]
+3. Philip Wootaek Shin, **Jihyun Janice Ahn**, Wenpeng Yin, Jack Sampson, Vijaykrishnan Narayanan. <u>Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models.</u> *In IJCAI 2024 AI Governance Workshop.* <br> [[Paper](https://arxiv.org/abs/2406.05602)]
 4. Renze Lou, Kai Zhang, Jian Xie, Yuxuan Sun, **Janice Ahn**, Hanzi Xu, Yu Su, Wenpeng Yin. <u>MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following.</u> *In ICLR 2024.* <br> [[Paper](https://arxiv.org/abs/2312.02436)]; [[Website](https://renzelou.github.io/Muffin/)]
-5. Ryo Kamoi, Sarkar Snigdha Sarathi Das, Renze Lou, **Jihyun Janice Ahn**, Yilun Zhao, Xiaoxin Lu, Nan Zhang, Yusen Zhang, Ranran Haoran Zhang, Sujeeth Reddy Vummanthala, Salika Dave, Shaobo Qin, Arman Cohan, Wenpeng Yin, Rui Zhang. <u>Evaluating LLMs at Detecting Errors in LLM Responses.</u>  <br> [[Paper](https://arxiv.org/abs/2404.03602)]
+5. Ryo Kamoi, Sarkar Snigdha Sarathi Das, Renze Lou, **Jihyun Janice Ahn**, Yilun Zhao, Xiaoxin Lu, Nan Zhang, Yusen Zhang, Ranran Haoran Zhang, Sujeeth Reddy Vummanthala, Salika Dave, Shaobo Qin, Arman Cohan, Wenpeng Yin, Rui Zhang. <u>Evaluating LLMs at Detecting Errors in LLM Responses.</u> *In COLM 2024.* <br> [[Paper](https://arxiv.org/abs/2404.03602)]
 6. Renze Lou, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, Yusen Zhang, **Jihyun Janice Ahn**, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia, Lifu Huang, Wenpeng Yin. <u>AAAR-1.0: Assessing AI's Potential to Assist Research</u> <br> [[Paper](https://arxiv.org/abs/2410.22394)]
 
 
