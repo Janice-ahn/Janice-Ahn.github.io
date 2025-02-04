@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jihyun Ahn ( *Janice, 안지현* ), a second-year PhD student at Penn State University, supervised by Prof. [Wenpeng Yin](https://sites.google.com/site/yinwenpeng1987/). Before PSU, I was an undergraduate at Arizona State University and University of Wisconsin Madison.
+My name is Jihyun Ahn ( *Janice, 안지현* ), a second-year PhD student at Penn State University, supervised by Prof. [Wenpeng Yin](https://www.wenpengyin.org/home). Before PSU, I was an undergraduate at Arizona State University and University of Wisconsin Madison.
 
 My current research interest focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Generative AI**, **AI4Science**,  **Mathematical Word Problems**, **Multilingual** and **Bias & Hallucinations of LLMs**.
 
