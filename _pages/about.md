@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jihyun Ahn ( *Janice, 안지현* ), a second-year PhD student at Penn State University, supervised by Prof. [Wenpeng Yin](https://www.wenpengyin.org/home). Before PSU, I was an undergraduate at Arizona State University and University of Wisconsin Madison.
+My name is Jihyun Ahn ( *Janice, 안지현* ), a third-year PhD student at Penn State University, supervised by Prof. [Wenpeng Yin](https://www.wenpengyin.org/home). Before PSU, I was an undergraduate at Arizona State University and University of Wisconsin Madison.
 
-My current research interest focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Generative AI**, **AI4Science**,  **Mathematical Word Problems**, **RAG**, **Multilingual** and **Bias & Hallucinations of LLMs**.
+My current research interest focuses on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **AI4Science**,  **Mathematical Word Problems**, **RAG**, **Multilingual**, **Bias & Hallucinations of LLMs**, and **Human-Computer Interaction (HCI)**.
 
 ## Publications:
 
@@ -25,7 +25,7 @@ My current research interest focuses on **Natural Language Processing (NLP)**, *
 
 
 ## Professional Experience:
-- **Research Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). August. 2023 ~ Present.
+- **Research Assistant & Teaching Assistant** @ Penn State University. <br> \-- Supervised by Prof. [Wenpeng Yin](https://scholar.google.com/citations?user=mRg16LkAAAAJ&hl=en). August. 2023 ~ Present.
 - **Data Science Intern** @ Samsung Austin Semiconductor. <br> \-- In Data Science Team. May. 2025 ~ August 2025.
 - **Workshop Organizor** @ Penn State University. <br> \-- co-organizer of AI4Research Workshop colocated with IJCAI'24. March. 2024 ~ July. 2024.
 - **Internship** @ Suresoft. <br> \-- ADAS Verification Technology Team. May. 2022 ~ July. 2022
